@@ -1,14 +1,6 @@
 
-```r
----
-title: "PBMC ATAC-seq Analysis"
-author: "Vidya Sai Rashmitha Reddy Yellareddy"
-output: .R
----
+Title: "PBMC ATAC-seq Analysis"
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
-```
 
 # Introduction
 
